@@ -18,8 +18,7 @@ We used the checkpoint provided by [MISS](https://github.com/TIMMY-CHAN/MISS) fo
 |--------------|------|
 | VQA-RAD | https://osf.io/89kps/|
 | SLAKE | https://www.med-vqa.com/slake/ |
-| RSNA| https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/rsna-pneumonia-detection-challenge-2018|
-| PMC-VQA | https://huggingface.co/datasets/xmcmic/PMC-VQA |
+
 
 
 2. The instruction-format dataset proposed in this paper is constructed based on SLAKE and VQA-RAD and stored in [instruction_data.json](https://github.com/TIMMY-CHAN/MILE/blob/main/Instruction_dataset/instruction_data.json). Please prepare the SLAKE and VQA-RAD image datasets, and you can follow the directory setting below:
