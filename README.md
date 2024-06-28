@@ -97,11 +97,11 @@ The experiment results are shown in Table 1 to Table 4 in the paper.
 
 |Method          | \#Params  | Opened | Closed | Global |
 |-----|-----------|--------|--------|--------|
-|Full Fine-tuning|             100%    | 71.84  | 64.46  & 68.97  
-|Decoder-LoRA    |            50.76%   | 66.82  | 63.48  & 65.52  
-|Decoder-Prefix  |           51.05%    | 69.94  | 60.54  & 66.29  
-|Decoder-IA3     |            50.49%   | 64.95  | 52.21  & 60.01  
-|Decoder-PTV2    |            50.92%   | 68.07  | 48.78  & 60.57 
+|Full Fine-tuning|             100%    | 71.84  | 64.46  | 68.97 |
+|Decoder-LoRA    |            50.76%   | 66.82  | 63.48  | 65.52 |
+|Decoder-Prefix  |           51.05%    | 69.94  | 60.54  | 66.29 |
+|Decoder-IA3     |            50.49%   | 64.95  | 52.21  | 60.01 |
+|Decoder-PTV2    |            50.92%   | 68.07  | 48.78  | 60.57 |
 
 ## Citation
 If you find this code to be useful for your research, please consider citing.
